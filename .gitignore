@@ -1,4 +1,2 @@
-unborn/LTM/*
-unborn/STM/*
-born/orage/LTM/*
-born/orage/STM/*
+**/LTM/*
+**/STM/*
